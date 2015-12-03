@@ -1,0 +1,116 @@
+#body {
+    height: 100%;
+    width: 100%;   
+    background-color: #fcefef;
+}
+#section h2.body {
+    color: #a5761c;
+    font-size: 35px;
+    font-family: 'Droid Serif', serif;
+    text-align: center;
+}
+#section h2.lone {
+    color: #a5761c;
+    font-size: 35px;
+    font-family: 'Eater', cursive;
+    text-align: center;
+}
+
+#nav h2.story {
+    color: #db5f30;
+    font-size: 20px;
+    font-family: 'Droid Serif', serif;
+    text-align: left;
+}
+h1 a {
+    color: yellow;
+    
+}
+
+#header {
+    background-color:#cb5d0f;
+    color:white;
+    text-align:center;
+    padding:1px;
+    color: yellow;
+    font-size: 28px;
+    font-family: 'Frijole', cursive;
+    
+}
+#nav {
+    line-height:30px;
+    background-color:rgba(139, 226, 20, 0.84);
+    height:inherit;
+    width: 200px;
+    float: left;
+    font-family: Oswald;
+    padding: 20px;
+}
+#section {
+    width:1000px;
+    float:left;
+    padding:10px;
+    height: 100%;
+    color: #744848;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+/*Styling the footer section*/
+#footer {
+    background-color:#cb5d0f;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+    height: 100%;
+    font-family: 'Covered By Your Grace', cursive;;
+}
+/*Header link styling*/
+#header a:link {
+    color: #ff0;
+}
+#header a:visited {
+    color: none;
+}
+#header a:hover {
+    color: #f5f546;
+}
+#header a:link {
+    text-decoration: none;
+}
+
+#header a:visited {
+    text-decoration: none;
+}
+
+#header a:hover {
+    text-decoration: none;
+}
+
+
+/*Navigation styling links*/
+#nav a:link {
+    color:#2b3ab1;
+}
+
+#nav a:hover {
+    color: red;
+}
+#nav  li.active a {
+    color: darkorange;
+}
+#nav a:link {
+    text-decoration: none;
+}
+
+#nav a:visited {
+    text-decoration: none;
+}
+
+#nav a:hover {
+    text-decoration: underline;
+}
+
+#nav a:active {
+    text-decoration: none;
+}
